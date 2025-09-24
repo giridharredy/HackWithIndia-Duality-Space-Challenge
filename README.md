@@ -14,8 +14,8 @@ The final model achieved a **Mean Average Precision (mAP@0.5) of 0.755 (75.5%)**
 **Performance Metrics Screenshot:**
 *(To show your image here, first upload it to the `results_screenshots` folder on GitHub, then edit this README file on GitHub and drag-and-drop the image file into this spot.)*
 ![Performance Metrics]<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/d6aff969-4430-45d3-94be-108717f30f4a" />
-()
-![val_batch1_pred](https://github.com/user-attachments/assets/fc6ff68a-5120-44bf-bf9d-632241449f79)
+
+
 
 ---
 
@@ -36,5 +36,5 @@ The model training and validation completed successfully. Unfortunately, the Col
 Below are sample prediction images from the successful validation run.
 
 
-![Prediction Image 1](![val_batch0_pred](https://github.com/user-attachments/assets/04b6725c-acad-42b0-8256-c3143628cb17))
-![Prediction Image 2](![val_batch1_pred](https://github.com/user-attachments/assets/fc6ff68a-5120-44bf-bf9d-632241449f79))
+![val_batch0_pred](https://github.com/user-attachments/assets/04b6725c-acad-42b0-8256-c3143628cb17)
+![val_batch1_pred](https://github.com/user-attachments/assets/fc6ff68a-5120-44bf-bf9d-632241449f79)
